@@ -18,8 +18,8 @@ Results for the model "ELA + ResNeXT": Run the "data.ipynb" notebook first to pr
 Run the "plots.ipynb" notebook for Train Accuracy plot and confusion matrix of the best performing model.
 
 
-<img src="https://github.iu.edu/jbhendri/CV-Project/blob/0ac1074c41042cb1e92d995a878738d375eb58f2/plot.png" width="400" height="300"> <img src="https://github.iu.edu/jbhendri/CV-Project/blob/0ac1074c41042cb1e92d995a878738d375eb58f2/Confusion%20Matrix.png" width="400" height="300">
+<img src="https://github.com/santhu932/Image-Manipulation-Detection/blob/cb9d7a36b1ae2874f13923e54fac084f3e8c4866/plot.png" width="400" height="300"> <img src="https://github.com/santhu932/Image-Manipulation-Detection/blob/cb9d7a36b1ae2874f13923e54fac084f3e8c4866/Confusion%20Matrix.png" width="400" height="300">
 
 # Project Poster:
 
-<img src="https://github.iu.edu/jbhendri/CV-Project/blob/0ac1074c41042cb1e92d995a878738d375eb58f2/CV_Posterpdf.png" width="900" height="700">
+<img src="https://github.com/santhu932/Image-Manipulation-Detection/blob/cb9d7a36b1ae2874f13923e54fac084f3e8c4866/CV_Posterpdf.png" width="900" height="700">
